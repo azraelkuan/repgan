@@ -8,9 +8,9 @@ which can fuse the `MRF Block` in the HiFiGAN.
 For example: HiFiGAN use `3, 7, 11` as the kernel sizes in the ResnetBlock, and using RepGAN, we only have one kernel
 size `11`
 
-## Training
+## Train
 
-u can use the official HiFiGAN and replace the model using this.
+u can use the official [HiFiGAN](https://github.com/jik876/hifi-gan) or [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN) and replace the model using this.
 
 ## Other tricks
 
